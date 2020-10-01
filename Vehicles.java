@@ -14,7 +14,7 @@ enum Types {
     End
   }
   enum Actions{
-        R,C
+        R,C,None
   }
 
 public class Vehicles {
